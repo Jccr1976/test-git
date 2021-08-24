@@ -6,4 +6,4 @@ IEXE Repositorio prueba
  
  Ejercicios de git
  
-![](C:\Users\JC\Documents\Maestria\LocalGit\CapturaLog.png)
+![](https://github.com/Jccr1976/test-git/network)
